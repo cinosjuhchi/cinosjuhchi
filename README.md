@@ -2,7 +2,15 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent-cgk2-1.xx.fbcdn.net/v/t39.30808-1/337149954_710332137509240_3541844226060547034_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEvJ1FnDaVqO0nvK5I9Q1tpx4otxIC-nw_Hii3EgL6fD6aSjpqneBaTBBOKfrlgWheIcYy3gOzO_C6a6vfq_RC4&_nc_ohc=hFP7JMEF1-QAX_s_sGj&_nc_ht=scontent-cgk2-1.xx&oh=00_AfCCbfTPB4EP8iLka2QvxvX6fxT9DBLhbNdDTu3kj5bSLA&oe=65FFA737"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cinosjuhchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=cinosjuhchi&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="128" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cinosjuhchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&custom_title=My%20Top%20Used%20Languages" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/f5/7d/e5/f57de5c8df67c28f5158fe3a3fbde3dc.gif"  />
 
 ###
 
@@ -21,11 +29,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
 ###
@@ -36,5 +50,11 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cinosjuhchi/cinosjuhchi/output/snake.svg" alt="Snake animation" />
 
 ###
